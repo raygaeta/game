@@ -24,7 +24,19 @@ export function BlockStart({ position = [ 0, 0, 0 ] })
                 position={ [ 0.75, 0.65, 0 ] }
                 rotation-y={ - 0.25 }
             >
-                Marble Race
+                Marble Race 
+                <meshBasicMaterial toneMapped={ false } />
+            </Text>
+            <Text
+                font="/bebas-neue-v9-latin-regular.woff"
+                scale={ 0.24 }
+                maxWidth={ 0.25 }
+                lineHeight={ 0.75 }
+                textAlign="left"
+                position={ [ -0.75, 0.65, 0 ] }
+                rotation-y={  0.25 }
+            >
+                Keyboard only
                 <meshBasicMaterial toneMapped={ false } />
             </Text>
         </Float>
