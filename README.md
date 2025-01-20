@@ -1,6 +1,6 @@
 # Race the Marble Game 🎮✨  
 
-#### A keyboard-controlled game with physics, lighting, and shadows, crafted using R3F/Drei and Rapier. Navigate through dynamic obstacles while racing against the clock, with procedurally generated levels ensuring every playthrough is unique and challenging.  
+#### A keyboard-controlled game with physics, lighting, and shadows, crafted using R3F/Drei and Rapier. Navigate through dynamic obstacles while racing against the clock, with procedurally generated levels ensuring every playthrough is unique and challenging. Future iterations will include a leaderboard and more levels!
 
 ---
 
